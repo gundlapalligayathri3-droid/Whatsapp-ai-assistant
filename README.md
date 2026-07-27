@@ -188,9 +188,7 @@ Before deploying:
 
 ## 📸 Screenshots
 
-<img width="960" height="564" alt="Screenshot 2026-07-27 222601" src="https://github.com/user-attachments/assets/68e07edd-0611-494d-b752-06267ed94a93" />
-
-
+<img width="644" height="361" alt="Screenshot 2026-07-27 224332" src="https://github.com/user-attachments/assets/15b6994d-1704-4802-8173-940e90a60f42" />
 
 
 Example:

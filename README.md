@@ -188,8 +188,9 @@ Before deploying:
 
 ## 📸 Screenshots
 
-<img width="960" height="564" alt="Screenshot 2026-07-27 222601" src="https://github.com/user-attachments/assets/dceefd9f-aace-<img width="960" height="564" alt="image" src="https://github.com/user-attachments/assets/d1200107-9e0d-421a-abdd-9e62437f92b9" />
-4d88-9d63-7d0dfe4ef200" />
+<img width="960" height="564" alt="Screenshot 2026-07-27 222601" src="https://github.com/user-attachments/assets/68e07edd-0611-494d-b752-06267ed94a93" />
+
+
 
 
 Example:
